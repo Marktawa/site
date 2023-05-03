@@ -1,21 +1,119 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="107.000000pt" height="107.000000pt" viewBox="0 0 107.000000 107.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.11, written by Peter Selinger 2001-2013
-</metadata>
-<g transform="translate(0.000000,107.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M609 942 c-17 -18 -95 -88 -289 -258 -117 -102 -177 -155 -204 -179
--6 -5 -31 -28 -56 -50 l-45 -39 -1 -144 -1 -143 21 18 c11 10 25 23 31 28 7 6
-46 41 88 79 86 77 86 77 216 196 52 47 103 93 115 103 11 10 50 45 86 77 l65
-59 -1 131 c0 71 -3 132 -5 135 -3 2 -12 -3 -20 -13z"/>
-<path d="M929 857 c-64 -56 -145 -128 -180 -159 -35 -31 -75 -66 -89 -78 -55
--47 -68 -59 -150 -131 l-85 -76 2 -129 c1 -71 2 -135 2 -143 1 -11 5 -10 19 5
-10 10 54 51 98 89 43 39 92 83 109 99 26 24 63 58 189 171 12 11 47 43 77 70
-30 28 70 63 89 79 l35 29 1 138 c1 77 1 139 0 139 0 -1 -53 -47 -117 -103z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.52316mm"
+   height="135.55009mm"
+   viewBox="0 0 135.52316 135.55009"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="12.510631"
+   inkscape:export-ydpi="12.510631"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.237872,-125.81382)">
+    <rect
+       style="fill:#000000;stroke-width:0.275946"
+       id="rect234-4"
+       width="135.50676"
+       height="135.36836"
+       x="28.254269"
+       y="125.83835" />
+    <rect
+       style="fill:#f4eaea;fill-opacity:1;stroke-width:0.324874"
+       id="rect1004-8-1-1"
+       width="22.049458"
+       height="57.490669"
+       x="-261.49072"
+       y="105.82948"
+       transform="rotate(-90.068558)"
+       inkscape:export-filename="logo.png"
+       inkscape:export-xdpi="94.510117"
+       inkscape:export-ydpi="94.510117" />
+    <rect
+       style="fill:#f4eaea;fill-opacity:1;stroke-width:0.324874"
+       id="rect1004-1-4"
+       width="22.05121"
+       height="57.486088"
+       x="-163.65457"
+       y="-261.37823"
+       transform="matrix(-0.99999992,4.0416298e-4,-4.0532154e-4,-0.99999992,0,0)" />
+    <rect
+       style="fill:#f4eaea;fill-opacity:1;stroke-width:0.324874"
+       id="rect1004-8-6"
+       width="22.049458"
+       height="57.490654"
+       x="125.88176"
+       y="-85.687851"
+       transform="rotate(89.954603)"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="12.510631"
+       inkscape:export-ydpi="12.510631" />
+    <rect
+       style="fill:#f4eaea;fill-opacity:1;stroke-width:0.324874"
+       id="rect1004-5"
+       width="22.05121"
+       height="57.486088"
+       x="28.237871"
+       y="125.85859"
+       inkscape:export-filename="mstile-150x150.png"
+       inkscape:export-xdpi="28.113277"
+       inkscape:export-ydpi="28.113277" />
+    <text
+       xml:space="preserve"
+       style="font-size:39.6663px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f4eaea;fill-opacity:1;stroke-width:0.354624"
+       x="116.00477"
+       y="167.41774"
+       id="text2355-3"
+       transform="scale(1.0000317,0.99996831)"><tspan
+         sodipodi:role="line"
+         id="tspan2353-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.6663px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.354624"
+         x="116.00477"
+         y="167.41774">D </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.2589px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#f4eaea;fill-opacity:1;stroke-width:0.275946"
+       x="77.883499"
+       y="206.68777"
+       id="text2409-2"
+       transform="scale(1.0000317,0.99996831)"><tspan
+         sodipodi:role="line"
+         id="tspan2407-4"
+         style="font-size:35.2589px;stroke-width:0.275946"
+         x="77.883499"
+         y="206.68777">W </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.6663px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f4eaea;fill-opacity:1;stroke-width:0.343794"
+       x="38.496616"
+       y="245.75266"
+       id="text2413-0"
+       transform="scale(1.0000317,0.99996831)"><tspan
+         sodipodi:role="line"
+         id="tspan2411-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.6663px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.343794"
+         x="38.496616"
+         y="245.75266">M </tspan></text>
+  </g>
 </svg>

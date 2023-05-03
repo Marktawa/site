@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Mark Munyaka
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: Proune Digital
+email: mail@markmunyaka.com
+twitter: https://twitter.com/McMunyaka
+linkedin: https://www.linkedin.com/in/mark-tawanda-munyaka-a878137b/
+github: https://github.com/Marktawa
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a freelance developer and technical writer from Zimbabwe currently based in Kafue, Zambia. I enjoy coding, reading, and outdoor sports. I love testing out new technologies (web, desktop, mobile) that can help me build cool apps. I am currently dabbling with the JAMStack ecosystem.

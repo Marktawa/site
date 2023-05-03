@@ -1,10 +1,14 @@
 ---
 title: How to run Medusa on Google Cloud Shell
 date: '2023-05-02'
-tags: ['medusa', 'google cloud shell', 'nextjs' 'ecommerce']
+tags: ['medusa', 'google cloud shell', 'nextjs', 'ecommerce']
 draft: false
+layout: PostLayout
+authors: ['default']
 summary: In this tutorial, you will learn how to install, run and test Medusa on Google Cloud Shell
 ---
+
+![Cover](https://res.cloudinary.com/craigsims808/image/upload/v1683100441/articles/scarlet-mouse/cover-hn_euals5.png)
 
 ## Introduction
 
@@ -16,7 +20,7 @@ We will use the default quickstart Next.js storefront provided by Medusa as mean
 
 ### What is Medusa?
 
-[Medusa](https://docs.medusajs.com/development/overview) is an open source composable commerce engine for building ecommerce websites. 
+[Medusa](https://docs.medusajs.com/development/overview) is an open source composable commerce engine for building ecommerce websites.
 
 ![Medusa](https://res.cloudinary.com/craigsims808/image/upload/v1682059136/articles/scarlet-mouse/medusa-intro_gc6mba.png)
 
@@ -72,16 +76,19 @@ Next, you will install Medusa backend using the [Quickstart guide](https://docs.
 Google Cloud Shell comes pre-installed with `node`, `npm` and `yarn`. These are the necessary tools required to install Medusa.
 
 In your Google Cloud Shell terminal window, install the Medusa CLI.
+
 ```bash
 npm install @medusajs/medusa-cli -g
 ```
 
 Create a new Medusa project for your backend and seed it with some data.
+
 ```bash
 medusa new my-medusa-store --seed
 ```
 
 Start your Medusa backend server
+
 ```bash
 cd my-medusa-store
 medusa develop
@@ -90,11 +97,13 @@ medusa develop
 Your Medusa server should start running on port 9000. Test it, in a new terminal tab. Click on the `+` icon in the Cloud Shell terminal window to open a new terminal
 
 Enter the following command to test if the Medusa backend is working.
+
 ```bash
 curl localhost:9000/store/products
 ```
 
 The beginning of the JSON response should be similar to this:
+
 ```json
 {
     "products": [
@@ -147,7 +156,7 @@ npm run dev
 
 Your Next.js storefront should start running on port 8000.
 
-Google Cloud Shell has got a [Web Preview](https://cloud.google.com/shell/docs/using-web-preview) feature. This allows you to preview your storefront running on port 8000. The Web Preview button  can be found on the top right of the Cloud Shell taskbar.
+Google Cloud Shell has got a [Web Preview](https://cloud.google.com/shell/docs/using-web-preview) feature. This allows you to preview your storefront running on port 8000. The Web Preview button can be found on the top right of the Cloud Shell taskbar.
 
 ![Web Preview](https://res.cloudinary.com/craigsims808/image/upload/v1682229181/articles/scarlet-mouse/cloud-shell-web-preview_ocktua.png)
 
@@ -164,8 +173,9 @@ To get around this we will use port forwarding to preview the storefront.
 In this step we will use SSH port forwarding to preview the storefront in your browser. If you want to know more about SSH port forwarding please check out this [article](https://www.ssh.com/academy/ssh/tunneling-example).
 
 Make sure you have the following:
+
 - An SSH client (Use either [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [OpenSSH](https://www.openssh.com/portable.html))
-- [Google Cloud CLI shell](https://cloud.google.com/sdk/docs/install) 
+- [Google Cloud CLI shell](https://cloud.google.com/sdk/docs/install)
 
 Initialize your Google Cloud CLI using these [instructions](https://cloud.google.com/sdk/docs/initializing).
 
@@ -185,7 +195,7 @@ gcloud cloud-shell ssh --ssh-flag="-L 8000:localhost:8000"
 
 Step 5 - Preview Next.js Starter Storefront
 
-Open a new tab and go to `localhost:8000` in your browser. You should see the Next.js starter storefront once again. 
+Open a new tab and go to `localhost:8000` in your browser. You should see the Next.js starter storefront once again.
 
 ![Next.js Starter Storefront](https://res.cloudinary.com/craigsims808/image/upload/v1683048975/articles/scarlet-mouse/nextjs-starter-storefront_ppk4ba.png)
 
